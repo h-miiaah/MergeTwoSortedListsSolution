@@ -23,3 +23,12 @@
         return list2;
     }
 };
+
+/*
+
+- Using the process of recursion
+- If either list is empty, return the other list's node
+- If list1 is lower, then return list1
+- If list2 is lower, then return list2
+
+*/
