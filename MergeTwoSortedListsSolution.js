@@ -11,5 +11,5 @@
  * @return {ListNode}
  */
  var mergeTwoLists = function(list1, list2) {
-    
+    if (list1 == null) return list2;
 };
